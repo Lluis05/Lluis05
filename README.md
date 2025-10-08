@@ -5,7 +5,7 @@
 
 - 📍 Barcelona, España 
 - 🎓 Computer Engineering, Universitat Autonoma de Barcelona (UAB)
-- 🗣️ Englis (C2) Spanish (Native) Catalan (Native) 
+- 🗣️ English (C2) Spanish (Native) Catalan (Native) 
 - 💭 Code is the closest thing we have to magic.
 
 
