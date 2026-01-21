@@ -19,6 +19,7 @@
 - `Assembly`
 
 ## 👾 Learning
+- Making my own projects
 - Learning and training every day in HTB and TryHackMe
 
 ## ⬇️ Connect with me
